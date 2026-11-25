@@ -1,0 +1,6 @@
+{
+  "name": "ScholarGraph — Adaptive Intelligent Tutoring System",
+  "description": "Adaptive computer science tutoring platform powered by a C algorithm engine implementing Knowledge DAG, AVL Adaptive Scheduler, BST Performance History, Max Heap, Dijkstra Learning Path, and Linked List mastery tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
